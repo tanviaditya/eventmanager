@@ -1,0 +1,11 @@
+Carnival 123 20 quadrangle 5 7
+VSM 345 30 enterance 9 11
+Codatron 678 20 406 5 8
+Shimla 879 1000 ground 6 7
+sd 12 235 34 7 10
+VolleyBall 345 250 SPCE Court 6 10
+HumanFOOSBALL 456 20 SPCE Court 2 7
+AEJ 445 250 enterance 3 6
+BeatBox Ankit 200 405 7 9
+Band 41 50 Quad 5 7
+Constitution day 345 100 Ground 4 8
